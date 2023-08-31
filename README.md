@@ -14,7 +14,7 @@ This project focuses on building the back end for an e-commerce website, enablin
 
 This can be used to manage the back end for an e-commerce site. It provides interaction with a database, handling for various requests, and more. It can easily be modified to fit specific needs. To use, clone the repository. Navigate to the repo in the terminal and run "npm install". Make the appropriate changes in the env file. Use the schema to set up the database and return to the console and run "npm seed". Finally, run "npm start" to start the server.
 
-![Video Walkthrough](https://watch.screencastify.com/v/gHow7XDy8yg5dn2kp1xs)
+![Untitled_ Aug 31, 2023 6_42 PM](https://github.com/HarryFelty/E-CommerceSite-BackEnd/assets/125701349/f079b08f-ee95-4669-88cf-d610b58effb2)
 
 Video Walkthrough: https://watch.screencastify.com/v/gHow7XDy8yg5dn2kp1xs
 
